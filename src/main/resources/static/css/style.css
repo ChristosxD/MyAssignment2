@@ -1,0 +1,20 @@
+
+
+a i{
+  color: black;
+}
+
+i{
+    font-size:  x-large;
+}
+
+body{
+    background-color: rgb(19, 128, 86,0.5);
+}
+label{
+    font-size: large; 
+}
+
+#delete{
+    cursor: pointer
+}
